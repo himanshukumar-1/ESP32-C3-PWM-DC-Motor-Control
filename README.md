@@ -125,15 +125,27 @@ The Nano receives the duty-cycle value over serial communication and represents 
 
 ## Hardware Implementation
 
-The project was physically assembled and tested on a breadboard rather than simulated in Wokwi.
+The project was physically assembled and tested directly on a breadboard. No Wokwi simulation was used.
 
-### Hardware Photos
+### Hardware Setup — Annotated Diagram
 
-The `diagrams/` directory contains photographs and the annotated hardware setup.
+![Annotated hardware setup](diagrams/file_00000000a43c8210a636f12831dcf4fd.png)
 
-### Demonstration Video
+### Actual Hardware Photographs
 
-The project demonstration video is stored in the `videos/` directory.
+#### Hardware Setup — View 1
+
+![Hardware setup view 1](diagrams/IMG_20260921_220251230_HDR.jpg)
+
+#### Hardware Setup — View 2
+
+![Hardware setup view 2](diagrams/IMG_20260921_220402013_HDR.jpg)
+
+### Project Demonstration Video
+
+[▶️ Watch the project demonstration video](Video/VID_20260921_220302585~2.mp4)
+
+The video demonstrates the physically implemented PWM motor-control setup and its operation.
 
 ## Arduino IDE
 
